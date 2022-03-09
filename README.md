@@ -1,24 +1,78 @@
-# README
+![Microverse](https://img.shields.io/badge/Microverse2.0-blueviolet) ![app](https://img.shields.io/badge/Myapp-blue)![](https://img.shields.io/github/followers/sheylaPozo?style=social)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello rails back end:
 
-Things you may want to cover:
+A Rails project as API.
 
-* Ruby version
+[Link to the front end project PR](https://github.com/Leandro-Barretoo/hello-react-front-end)
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby
+- Rails
+- PostgreSQL
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+## Instructions
 
-* Services (job queues, cache servers, search engines, etc.)
+```sh
+$ git clone git@github.com:Leandro-Barretoo/hello-rails-back-end.git
+```
 
-* Deployment instructions
+```sh
+$ cd hello-rails-back-end
+```
 
-* ...
+## Install
+
+```
+$ bundle install
+```
+
+## Run
+
+```
+$ rails db:create
+```
+
+```
+$ rails db:migrate
+```
+
+```
+$ rails db:seed
+```
+
+```
+rails s
+```
+
+## Author:
+
+👤 **Leandro Barreto**
+
+- Github:[@Leandro-Barretoo](https://github.com/Leandro-Barretoo)
+- Linkedin: [Leandro Barretoo](https://www.linkedin.com/in/leandroobarreto/)
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Leandro-Barretoo/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+
+## License
+
+[MIT](./LICENSE)
